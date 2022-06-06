@@ -4,7 +4,25 @@
  - [ ] Unterkunft Matti 1 Woche vorher absprechen / ggf gebuchte Untekrunft stornieren (Christopher)
  - [ ] Shuttle Trondheim Airport Unterkunft
  - [ ] Schlüsselabholung klären (Johann)
- - [ ] Nummern Service + Veranstalter einspeichern (Christopher)
+ - [ ] Nummern Service + Veranstalter einspeichern (vor Ort)
+
+
+## Vorort
+- [ ] Einkaufen
+- [ ] Startnummern abholen
+- [ ] Start angucken
+- [ ] Kleine Runde drehen
+- [ ] Reiskuchen vorbereiten
+- [ ] [Beutel für die (3!!!) Verpflegungsstationen packen](https://styrkeproven.no/poseplanen-for-trondheim-oslo/)
+- [ ] [Gepäcktransport => Oslo (Vor dem Start in Trucks)](https://styrkeproven.no/poseplanen-for-trondheim-oslo/)
+
+
+  
+
+
+<img src="startnummer.png">
+
+<img src="beutel.png">
 
 ## Verpflegung
 - ~ 1.000 kcal/person/h => 4x20x1.000 = **80.000kcal!!!**
@@ -56,7 +74,7 @@ Was möchten wir an welcher Station haben und wer ist für den Beutel "verantwor
 |-----------------------|-------|-----------|---------------|-------|
 |Soknedal               | 62km  |           | nur Wasser auffüllen  |
 |Oppdal / Fagerhaug     | 107km |           |               |       |
-|Dombas                 | 198km |           |               |       |
+|Dombas                 | 198km |           |   trockene Anziehsachen vor/ in der Abfahrt            |       |
 |Kvam                   | 264km |           |               |       |
 |Kvitfjelltunet         | 308km |           |               |       |
 |Brottum                | 372km |           |               |       |
