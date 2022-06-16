@@ -32,13 +32,13 @@
 
 | Food                          | Menge     |    kcal   | Who?        |
 |-------------------------------|-----------|-----------|-------------|
-|Dattel-Haferflocken Bällchen   |      ?    |  ?        | Paul        | 
+|Dattel-Haferflocken Bällchen   | 1600gr    | 5.300     | Paul        | 
 |Haferkraft                     | 12x4x35gr | 7.152     | Christopher |
 |Cliffbar                       |           |           |             |  
 |Schockobrötchen(4x360gr        | 4x8x45gr  | 4.768     | vor Ort     | 
 |Schokolade                     |     ?     |   ?       |     ?       | 
 |Reiskuchen                     |           |           | vor Ort     |
-|Summe                          |           |  12.000   |             |
+|Summe                          |           |  17.300   |             |
 
 
 ## Werkzeug/ 
